@@ -10,16 +10,25 @@ void setup() {
   pinMode(dir1, OUTPUT);
   pinMode(dir2, OUTPUT);
 
-  Serial.begin(9600);
-  Serial.println("Please enter the motor speed: ");
+  Serial.begin(9600);//Starts the serial comms
+
+  //Look for user input on motor speed
+  Serial.println("Please enter the motor speed:");
   while(Serial.available()==0){}
   mSpeed = Serial.parseInt();
-  Serial.println(String(mSpeed));
+  Serial.println("Speed is set to: " + String(mSpeed));
+  delay(25);
 
+  Serial.end();//Ends the serial comms
+  Serial.begin(9600);//Restarts the serial
+  
+  //Look for user input on direction
   Serial.println("Please enter the direction: ");
   while(Serial.available()==0){}
-  dir = Serial.parseBool();
+  dir = Serial.read();
   Serial.println(String(dir));
+  
+  Serial.end();//Ends the serial comms
 }
 
 void loop() {
