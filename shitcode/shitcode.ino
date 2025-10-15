@@ -13,19 +13,17 @@ void setup() {
   Serial.begin(9600);
   Serial.println("Please enter the motor speed: ");
   while(Serial.available()==0){}
-  mSpeed = Serial.read();
+  mSpeed = Serial.parseInt();
   Serial.println(String(mSpeed));
 
   Serial.println("Please enter the direction: ");
   while(Serial.available()==0){}
-  dir = Serial.read();
+  dir = Serial.parseBool();
   Serial.println(String(dir));
 }
 
 void loop() {
   // put your main code here, to run repeatedly:
-  
-
   digitalWrite(dir1, dir);
   digitalWrite(dir2, !dir);
   analogWrite(speedPin, 255);
