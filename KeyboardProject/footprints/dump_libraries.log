@@ -1,0 +1,139 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Dump Library Log                                                 )
+(                                                                     )
+(    Software Version : 24.1S003                                      )
+(    Date/Time        : Wed May 21 20:22:20 2025                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+*** file: C:/SPB_Data/cdssetup/workspace/projects/orcadx_keyboard_video_series/allegro/orcadx_keyboard_video_series_7_cleanup_manufacturing_done.brd ***
+
+
+
+  *** Creating all device files (see create_devices.log) ***
+
+
+  *** Creating padstacks. ***
+
+  MOUNT_CIRC_2P5MM being dumped.
+
+  TH_CIRC_1MM being dumped.
+
+  ROUND_0P4MM_H_0P65MM_P being dumped.
+
+  OBLONG_2P1MM_H_2P4MM_P being dumped.
+
+  RECT_0P95MM_X_1MM being dumped.
+
+  RRECT_1MM_X_1P45MM being dumped.
+
+  RECT_0P7MM_X_0P6MM being dumped.
+
+  OBLONG_0P6_H_0P9_P being dumped.
+
+  TH_CIRC_67MIL being dumped.
+
+  TH_CIRC_59MIL being dumped.
+
+  TH_CIRC_2P5MM being dumped.
+
+  TH_CIRC_157MIL being dumped.
+
+  RRECT_1P4MM_X_1P1MM being dumped.
+
+  RRECT_1P5MM_X_1P1MM being dumped.
+
+  RRECT_1P0MM_X_1P6MM being dumped.
+
+  RRECT_3P2MM_X_3P2MM being dumped.
+
+  RRECT_3P6MM_X_1P0MM being dumped.
+
+  VIA being dumped.
+
+  RRECT_0P8MM_X_0P4MM being dumped.
+
+  RRECT_3P4MM_X_4P3MM being dumped.
+
+  RRECT_2P4MM_X_0P8MM being dumped.
+
+  RRECT_0P45MM_X_0P3MM being dumped.
+
+  RRECT_1P19MM_X_3P3MM being dumped.
+
+  CIRC_0P7MM_H_1P4MM_P being dumped.
+
+  RRECT_0P91MM_X_1P22MM being dumped.
+
+  VIA26 being dumped.
+
+  RRECT_0P875MM_X_0P2MM being dumped.
+
+
+  *** Creating flash symbols (.dra and .fsm) ***
+
+  ab00 being dumped.
+
+
+  *** Creating package symbols (.dra and .psm) ***
+
+  cap0603 being dumped.
+
+  cap0805 being dumped.
+
+  sod-123 being dumped.
+
+  res0603 being dumped.
+
+  mx-series-sw-1-pole-1p5u being dumped.
+
+  mx-series-sw-1-pole-2p25u being dumped.
+
+  sot-23-3 being dumped.
+
+  mx-series-sw-1-pole-6p25u being dumped.
+
+  mx-series-sw-1-pole-1p75u being dumped.
+
+  4-smd-no_lead being dumped.
+
+  s2b-ph-k being dumped.
+
+  mx-series-sw-1-pole being dumped.
+
+  8-wson_6x5_ep being dumped.
+
+  skc6812rv being dumped.
+
+  so16 being dumped.
+
+  mx-series-sw-1-pole-2u-vert being dumped.
+
+  mnt_2p5mm being dumped.
+
+  3361s being dumped.
+
+  mx-series-sw-1-pole-2u being dumped.
+
+  6-wson_2x2 being dumped.
+
+  56-vfqfn-ep being dumped.
+
+  usb4085-gf-a being dumped.
+
+  nhd-0216xz-fsw-gbw being dumped.
+
+
+
+*********************** Summary *********************
+ERRORs reported:                           0
+
+Number of padstacks dumped:               27
+Number of package symbols dumped:         23
+Number of flash symbols dumped:            1
+
+Total number of symbols dumped:           24
+*****************************************************
+

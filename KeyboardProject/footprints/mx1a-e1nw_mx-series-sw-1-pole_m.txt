@@ -1,0 +1,15 @@
+(DEVICE FILE: MX1A-E1NW_MX-SERIES-SW-1-POLE_M)
+
+PACKAGE 'MX-SERIES-SW-1-POLE'
+CLASS IC
+PINCOUNT 5
+
+PINORDER 'MX1A-E1NW_MX-SERIES-SW-1-POLE_M' 1 2 3 4 5
+FUNCTION G1 'MX1A-E1NW_MX-SERIES-SW-1-POLE_M' 1 2 3 4 5
+
+PACKAGEPROP ALT_SYMBOLS,
+      '((mx-series-sw-1-pole,mx-series-sw-1-pole-1p25u,mx-series-sw-1-pole-1p5u,mx-series-sw-1-pole-1p75u,mx-series-sw-1-pole-2p25u,mx-series-sw-1-pole-2p5u,mx-series-sw-1-pole-2p75u,mx-series-sw-1-pole-2u,mx-series-sw-1-pole-2u-vert,mx-series-sw-1-pole-6p25u))'
+PACKAGEPROP PART_NAME 'MX1A-E1NW'
+PACKAGEPROP VALUE 'MX1A-E1NW'
+
+END
