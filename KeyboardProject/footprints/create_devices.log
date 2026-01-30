@@ -1,0 +1,40 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Create_devices LOG file                                          )
+(                                                                     )
+(    Drawing          : orcadx_keyboard_video_series_7_cleanup_manufacturing_done.brd )
+(    Software Version : 24.1S003                                      )
+(    Date/Time        : Wed May 21 20:22:20 2025                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+Device file 'C:/SPB_Data/cdssetup/workspace/projects/orcadx_keyboard_video_series/allegro/footprints/cap1_cap0603_discrete_22pf_5_.txt': written successfully.
+Device file 'C:/SPB_Data/cdssetup/workspace/projects/orcadx_keyboard_video_series/allegro/footprints/cap1_cap0805_discrete_10uf_10_.txt': written successfully.
+Device file 'C:/SPB_Data/cdssetup/workspace/projects/orcadx_keyboard_video_series/allegro/footprints/cap1_cap0603_discrete_01uf_10.txt': written successfully.
+Device file 'C:/SPB_Data/cdssetup/workspace/projects/orcadx_keyboard_video_series/allegro/footprints/mmsd4148t1g_sod-123_discrete_mm.txt': written successfully.
+Device file 'C:/SPB_Data/cdssetup/workspace/projects/orcadx_keyboard_video_series/allegro/footprints/usb4085-gf-a_usb4085-gf-a_usb40.txt': written successfully.
+Device file 'C:/SPB_Data/cdssetup/workspace/projects/orcadx_keyboard_video_series/allegro/footprints/nhd-0216xz-fsw-gbw_nhd-0216xz-f.txt': written successfully.
+Device file 'C:/SPB_Data/cdssetup/workspace/projects/orcadx_keyboard_video_series/allegro/footprints/skc6812rv_skc6812rv_skc6812rv_.txt': written successfully.
+Device file 'C:/SPB_Data/cdssetup/workspace/projects/orcadx_keyboard_video_series/allegro/footprints/mnt_2p5mm_mnt_2p5mm_mnt_2p5mm_.txt': written successfully.
+Device file 'C:/SPB_Data/cdssetup/workspace/projects/orcadx_keyboard_video_series/allegro/footprints/res1_res0603_discrete_1k_1_re.txt': written successfully.
+Device file 'C:/SPB_Data/cdssetup/workspace/projects/orcadx_keyboard_video_series/allegro/footprints/res1_res0603_discrete_10k_1_r.txt': written successfully.
+Device file 'C:/SPB_Data/cdssetup/workspace/projects/orcadx_keyboard_video_series/allegro/footprints/3361s-1-103glf_3361s_discrete_1.txt': written successfully.
+Device file 'C:/SPB_Data/cdssetup/workspace/projects/orcadx_keyboard_video_series/allegro/footprints/res1_res0603_discrete_274r_1_.txt': written successfully.
+Device file 'C:/SPB_Data/cdssetup/workspace/projects/orcadx_keyboard_video_series/allegro/footprints/res1_res0603_discrete_51k_1_.txt': written successfully.
+Device file 'C:/SPB_Data/cdssetup/workspace/projects/orcadx_keyboard_video_series/allegro/footprints/mx1a-e1nw_mx-series-sw-1-pole_m.txt': written successfully.
+Device file 'C:/SPB_Data/cdssetup/workspace/projects/orcadx_keyboard_video_series/allegro/footprints/mx1a-e1nw_mx-series-sw-1-pole_1.txt': written successfully.
+Device file 'C:/SPB_Data/cdssetup/workspace/projects/orcadx_keyboard_video_series/allegro/footprints/rp2040_56-vfqfn-ep_rp2040_56-v.txt': written successfully.
+Device file 'C:/SPB_Data/cdssetup/workspace/projects/orcadx_keyboard_video_series/allegro/footprints/tlv75533pdrvr_6-wson_2x2_tlv755.txt': written successfully.
+Device file 'C:/SPB_Data/cdssetup/workspace/projects/orcadx_keyboard_video_series/allegro/footprints/w25q128jvpiq_8-wson_6x5_ep_w25q.txt': written successfully.
+Device file 'C:/SPB_Data/cdssetup/workspace/projects/orcadx_keyboard_video_series/allegro/footprints/pcf8574t_so16_pcf8574t_so16so.txt': written successfully.
+Device file 'C:/SPB_Data/cdssetup/workspace/projects/orcadx_keyboard_video_series/allegro/footprints/rh100-12000_4-smd-no_lead_12m.txt': written successfully.
+Device file 'C:/SPB_Data/cdssetup/workspace/projects/orcadx_keyboard_video_series/allegro/footprints/cap1_cap0603_01uf.txt': written successfully.
+Device file 'C:/SPB_Data/cdssetup/workspace/projects/orcadx_keyboard_video_series/allegro/footprints/cap1_cap0603_1uf.txt': written successfully.
+Device file 'C:/SPB_Data/cdssetup/workspace/projects/orcadx_keyboard_video_series/allegro/footprints/2-pin-con_s2b-ph-k_2-pin-con.txt': written successfully.
+Device file 'C:/SPB_Data/cdssetup/workspace/projects/orcadx_keyboard_video_series/allegro/footprints/nmos_sot-23-3_nmos.txt': written successfully.
+Device file 'C:/SPB_Data/cdssetup/workspace/projects/orcadx_keyboard_video_series/allegro/footprints/res1_res0603_10k_1.txt': written successfully.
+
+  Created device files: 25
+
