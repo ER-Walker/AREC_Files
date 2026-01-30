@@ -5,9 +5,9 @@ The Amateur Robotics and Electronics Coalition at UPJ have decided to put all th
 
 Some quick tips:
 
-1. The main branch is simply for general code that may be used throughout different semesters and the README
+1. The main branch is for current projects that the club is working on.
 
-2. Branches will be divided into semesters as to try and keep code more contained
+2. Branches will be divided into semesters as to try and keep code more contained. These should also include previous project files
 
 3. Have fun :)
 
